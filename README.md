@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Bhargava</h1>
-<h3 align="center">A Designer and Machine learning enthusiast</h3>
+<h3 align="center">A Designer and Game Development enthusiast</h3>
 
 - 📫 How to reach me **parth.bhargava2004@gmail.com**
 
