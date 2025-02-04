@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parth Bhargava</h1>
 <h3 align="center">Graphic Design, Interaction Design, Game Design</h3>
 
-- 🌱 I’m currently learning **Blender, Tailwind, Unity**
+- 🌱 I’m currently learning **Blender, Unity**
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/4b6hyhda](https://tinyurl.com/4b6hyhda)
 
-- 💬 Ask me about **Figma & Photoshop**
+- 💬 Ask me about **Figma, Photoshop & Interaction Design**
 
 - 📫 How to reach me **parth.bhargava2004@gmail.com**
 
